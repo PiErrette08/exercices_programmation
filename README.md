@@ -9,5 +9,5 @@ Bonjour, je suis Viany. Je débute en programmation et je me forme à Python et 
 - Visual Studio Code
 - Python et JDK (Java), installés sur Windows
 
-  ## A venir
+## A venir
   D'autres exercices seront ajoutés régulièrement.
